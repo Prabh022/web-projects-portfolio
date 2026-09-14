@@ -1,73 +1,111 @@
 # 🌐 Web Projects Portfolio
 
-A growing portfolio of web development projects built using HTML, JavaScript, and modern front-end frameworks. This repository showcases interactive interfaces, DOM manipulation, API integrations, and responsive design — with new projects added regularly.
+A collection of web development projects built while learning and practicing **HTML, CSS, JavaScript, frontend development, APIs, and modern web technologies**.
 
-## 🚀 Purpose
-
-This repository serves as a central hub for my front-end development work. Each project explores practical web concepts such as dynamic UI behavior, client-side logic, and real-world use cases — all with a focus on clean code and user experience.
-
-## 🧰 Technologies Used
-
-- HTML5
-- JavaScript (ES6+)
-- CSS3 (where applicable)
-- DOM manipulation
-- Fetch API and JSON handling
-- Responsive design principles
-
-### 🔮 Frameworks & Libraries (Current & Upcoming)
-
-As I expand this portfolio, I’ll be incorporating projects built with:
-
-- **Next.js** – for server-side rendering and scalable React apps
-- **React** – for component-based UI development
-- **Angular** – for structured, enterprise-grade front-end architecture
-- **Tailwind CSS** – for utility-first styling
-- **Chart.js / D3.js** – for data visualization
-
-## 📁 Project Structure
-
-Each folder represents a standalone project and includes:
-- `README.md` – Project overview and usage
-- HTML, JS, and CSS files (or framework-specific structure)
-- Screenshots or demo links (if applicable)
-
-## 🔍 Featured Projects (so far)
-
-> More projects coming soon — this list will grow as I build!
-
-- [`weather-dashboard`](./weather-dashboard)  
-  A responsive dashboard that fetches live weather data using a public API and displays it with dynamic styling.
-
-- [`todo-list-app`](./todo-list-app)  
-  A simple task manager with add/remove functionality, built using vanilla JS and local storage.
-
-- [`form-validator`](./form-validator)  
-  A client-side form validation tool with real-time feedback and error handling.
-
-## 📌 Coming Soon
-
-- Expense visualizer with chart.js  
-- Interactive quiz app  
-- Portfolio website with responsive layout  
-- API-powered movie search tool  
-- React-based task manager  
-- Next.js blog with dynamic routing  
-- Angular dashboard for business metrics  
-
-## 🧠 Learning Goals
-
-- Strengthen DOM manipulation and event handling
-- Build responsive and accessible interfaces
-- Practice clean, modular JavaScript and component-based design
-- Explore real-world API integration and framework architecture
-
-## 📬 Contact
-
-Feel free to connect or share feedback:
-- GitHub: [github.com/Prabh022](https://github.com/Prabh022/prabhjeet-singh-profile)
-- LinkedIn: [linkedin.com/in/prabhjeet](https://linkedin.com/in/prabhjeet)
+This repository contains projects ranging from small interactive applications to larger web-development experiments.
 
 ---
 
-> _Built for the browser. Powered by curiosity._
+## 📂 Projects
+
+### 🚚 Delivery System
+
+A web-based project focused on implementing a delivery-related workflow and practicing application structure and user interaction.
+
+**Technologies / Concepts:**
+- HTML
+- CSS
+- JavaScript
+- Web application structure
+- User interaction
+
+---
+
+### 🏓 Pong Game
+
+A browser-based Pong game created to practice JavaScript programming, game logic, user interaction, and dynamic updates.
+
+**Technologies / Concepts:**
+- JavaScript
+- DOM manipulation
+- Game logic
+- Event handling
+- Browser-based programming
+
+---
+
+### 📋 Task Flow Portal
+
+A web application project focused on organizing tasks and experimenting with interactive user interfaces and application logic.
+
+**Technologies / Concepts:**
+- JavaScript
+- UI development
+- Application logic
+- Web design
+- User interaction
+
+---
+
+## 🧰 Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- DOM Manipulation
+- Browser APIs
+- JSON
+- Fetch API
+- Responsive Web Design
+
+---
+
+## 🔭 Upcoming Projects
+
+As I continue developing my web-development skills, I plan to add:
+
+- 🌦️ **Weather Dashboard** using a public API
+- 💰 **Expense Tracker** with data visualization
+- 🎬 **Movie Search Application** using an external API
+- ⚛️ **React Task Manager**
+- 🔐 **Full-Stack Application** with authentication
+- 🗄️ **Node.js + SQL Backend Application**
+- 📊 **Business / Data Dashboard**
+- ⚡ **Next.js Application** with API integration
+
+Projects will be added as they are actually built and completed.
+
+---
+
+## 🎯 Learning Goals
+
+- Improve JavaScript fundamentals
+- Build responsive and accessible interfaces
+- Learn modern frontend frameworks
+- Understand frontend/backend communication
+- Work with REST APIs
+- Connect applications to databases
+- Practice Git and software-development workflows
+
+---
+
+## 📈 Learning Path
+
+```text
+HTML / CSS
+     ↓
+JavaScript
+     ↓
+React
+     ↓
+TypeScript
+     ↓
+Node.js
+     ↓
+REST APIs
+     ↓
+SQL & Databases
+     ↓
+Full-Stack Development
+     ↓
+Cloud Deployment
